@@ -4,9 +4,9 @@ Programa em JavaScript para gerir o inventário de equipamentos informáticos.
 
 ## Grupo
 
-- Nome do aluno 1 — nº
-- Nome do aluno 2 — nº
-- Nome do aluno 3 — nº
+- Nome do aluno 1 — Hilcar Mahema
+- Nome do aluno 2 — Neily da Barca
+- Nome do aluno 3 — Alsacia Langa
 
 ## Dados registados
 
